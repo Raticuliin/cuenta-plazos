@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     canonical: "https://cuenta-plazos.vercel.app",
   },
   verification: {
-    google: "verification_token_placeholder",
+    google: "_oXmZETRYIxIqEJmGUSIhbP2j3ynnKxJCYrdXJZ07R4",
   },
 };
 
