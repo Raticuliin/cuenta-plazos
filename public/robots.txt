@@ -5,4 +5,4 @@ Allow: /
 Sitemap: https://cuenta-plazos.vercel.app/sitemap.xml
 
 # Crawl-delay
-Crawl-delay: 1
+Crawl-delay: 2
